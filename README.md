@@ -1,1 +1,9 @@
-Application for scraping jobs from jobs.techstars.com by specific job function
+Backend:
+
+- Spring Boot
+- Kafka
+- Docker
+- Elk + Bit
+- Graphana + Promotheus
+- RabbitMQ
+- Redis
