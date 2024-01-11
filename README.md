@@ -7,3 +7,6 @@ Backend:
 - Graphana + Promotheus
 - RabbitMQ
 - Redis
+- K8S
+- Swagger
+- Liquibase
