@@ -1,12 +1,12 @@
 Backend:
 
 - Spring Boot
-- Kafka
+- Swagger
+- Liquibase
 - Docker
+- Kafka
 - Elk + Bit
 - Graphana + Promotheus
 - RabbitMQ
 - Redis
 - K8S
-- Swagger
-- Liquibase
